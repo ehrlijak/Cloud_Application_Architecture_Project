@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ehrlijak/Cloud_Application_Architecture_Project#readme",
   "dependencies": {
     "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }
